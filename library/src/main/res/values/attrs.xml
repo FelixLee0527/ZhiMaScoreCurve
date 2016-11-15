@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ScoreTrend">
+        <attr name="max_score" format="integer"/>
+        <attr name="min_score" format="integer"/>
+        <attr name="broken_line_color" format="color"/>
+    </declare-styleable>
+</resources>
