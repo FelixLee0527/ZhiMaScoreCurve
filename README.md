@@ -1,7 +1,7 @@
 ####支付宝芝麻分曲线图
 ####效果图：
 
-![](/Users/felix/Downloads/ZhiMaFen/Demo.png)
+![](https://raw.githubusercontent.com/FelixLee0527/ZhiMaFen/Demo.png)
 
 
 ####使用：
